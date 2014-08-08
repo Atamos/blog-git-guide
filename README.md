@@ -1,1 +1,1 @@
-fffff
+Test repository for blog article.
